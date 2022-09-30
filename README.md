@@ -14,7 +14,7 @@
 **JavaScript ES6** // **CSS3** // **HTML5** // **React.js** // **Git** // **WebPack**
 
 ### Мои проекты в репозиториях
-*  Mesto - еще один аналог Instagramm на React.js и Node.js. https://vmesto.insta.nomoredomains.sbs/ 
+*  Mesto - еще один аналог Instagramm на Vanilla.js, React.js и Node.js. https://vmesto.insta.nomoredomains.sbs/ 
 * "Научиться учиться" - увлекательные факты об эффективном процессе обучения. Лендинг
 * "Путешествие по России" - о красотах нашей страны в приятном web-исполнении. Лендинг.
 * "StarWars" - тестовое задание на React.js
