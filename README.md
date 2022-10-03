@@ -15,7 +15,8 @@
 
 ### Мои проекты в репозиториях
 *  Mesto - еще один аналог Instagramm на Vanilla.js, React.js и Node.js. https://vmesto.insta.nomoredomains.sbs/ 
-* "Научиться учиться" - увлекательные факты об эффективном процессе обучения. Лендинг
-* "Путешествие по России" - о красотах нашей страны в приятном web-исполнении. Лендинг.
-* "StarWars" - тестовое задание на React.js
-* "RickyMorty" - тестовое задание на React.js
+* "Научиться учиться" - увлекательные факты об эффективном процессе обучения в формате landing-page https://github.com/vlad-borovkov/how-to-learn
+* "Путешествие по России" - о красотах нашей страны в приятном web-исполнении. https://github.com/vlad-borovkov/russian-travel
+* "StarWars" - тестовое задание на React.js https://github.com/vlad-borovkov/star-wars-react
+* "RickyMorty" - тестовое задание на React.js  https://github.com/vlad-borovkov/ricky-morty-react
+* "People" - тестовое задание на React.js https://github.com/vlad-borovkov/akvelon-test-
