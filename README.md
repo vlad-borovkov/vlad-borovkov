@@ -13,7 +13,8 @@
 
 **JavaScript ES6** // **CSS3** // **HTML5** // **React.js** // **Git** // **WebPack**
 
-### Мои проекты в репозиториях
+### Мои коммерческие, тестовые и учебные проекты в репозиториях
+*  Лендинг мероприятия https://github.com/vlad-borovkov/children-culture-forum-/
 *  FavMovies Дипломный проект и моя визитка в Яндекс.Практикум https://favmovies.nomoredomains.icu/ https://github.com/vlad-borovkov/movies-explorer-frontend https://github.com/vlad-borovkov/movies-explorer-backend
 *  Mesto - еще один аналог Instagramm на Vanilla.js, React.js и Node.js. https://github.com/vlad-borovkov/mesto-react https://github.com/vlad-borovkov/express-mesto-gha https://github.com/vlad-borovkov/mesto 
 * "Научиться учиться" - увлекательные факты об эффективном процессе обучения в формате landing-page https://github.com/vlad-borovkov/how-to-learn
