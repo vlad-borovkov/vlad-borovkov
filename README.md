@@ -21,7 +21,7 @@
 * "Путешествие по России" - о красотах нашей страны в приятном web-исполнении. https://github.com/vlad-borovkov/russian-travel
 -
 
-
+*  Калькулятор расчёта запчастей для ремонта авто на Vue.js https://github.com/vlad-borovkov/calc-parts-vue
 *  To-do лист на каждый день - PET-project на React.js, TypeScript, Viet, MaterialUI - https://github.com/vlad-borovkov/toDo-viet-react-ts
 * "StarWars" - тестовое задание на React.js https://github.com/vlad-borovkov/star-wars-react
 * "RickyMorty" - тестовое задание на React.js  https://github.com/vlad-borovkov/ricky-morty-react
