@@ -11,7 +11,7 @@
 
 ## Мой стек
 
-**JavaScript ES6** // **TypeScript** // **CSS3** // **HTML5** //  **Vue.js** // **React.js** // **Git** // **WebPack**
+**JavaScript ES6** // **TypeScript** // **CSS3** // **HTML5** //  **Vue.js** // **React.js**
 
 ### Моё портфолио
 *  Калькулятор расчёта запчастей для ремонта авто на Vue.js https://github.com/vlad-borovkov/calc-parts-vue
